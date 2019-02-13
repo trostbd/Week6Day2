@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230763602282",
+    "firebase_url": "https://week6day2-496e8.firebaseio.com",
+    "project_id": "week6day2-496e8",
+    "storage_bucket": "week6day2-496e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230763602282:android:d70118552f39b5de",
+        "android_client_info": {
+          "package_name": "com.example.lawre.week6day2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230763602282-in73ho95bfgtrandad6qlt1spnbkjjrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lawre.week6day2",
+            "certificate_hash": "09613878336c662935fe66ba70b17edda99640a3"
+          }
+        },
+        {
+          "client_id": "230763602282-ri1fi2c24of4ip9qphmou7eevfp70cts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgT6_2Q6uO9Cns5UmR37kQT8WAKaYIhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230763602282-ri1fi2c24of4ip9qphmou7eevfp70cts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
